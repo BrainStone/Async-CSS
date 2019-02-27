@@ -1,0 +1,30 @@
+{
+  "name": "async-css",
+  "version": "1.0.0",
+  "description": "A super simple method to load CSS asynchronously that has won't break your site in case JavaScript is disabled!",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrainStone/Async-CSS.git"
+  },
+  "keywords": [
+    "async",
+    "async loading",
+    "css",
+    "stylesheets",
+    "utility",
+    "loader"
+  ],
+  "author": "BrainStone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrainStone/Async-CSS/issues"
+  },
+  "homepage": "https://brainstone.github.io/Async-CSS/"
+}
